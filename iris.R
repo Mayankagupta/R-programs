@@ -1,0 +1,16 @@
+names(iris)
+is.vector(names(iris))
+vec<-names(iris)
+length(vec)
+nrow(iris)
+ncol(iris)
+dim(iris)
+iris(,1)
+iris[,1]
+sum<-iris[,1]
+length(sum)
+sum(sum)
+sum(sum)/length(sum)
+mean(iris[,1])
+iris[,5]
+summary(iris)
